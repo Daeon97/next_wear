@@ -1,1 +1,22 @@
-{}
+{
+  "api": {
+    "smartbra": {
+      "dependsOn": [],
+      "output": {
+        "authConfig": {
+          "additionalAuthenticationProviders": [],
+          "defaultAuthentication": {
+            "apiKeyConfig": {
+              "apiKeyExpirationDate": "2024-10-23T10:22:45.347Z",
+              "apiKeyExpirationDays": 365,
+              "description": "Smart bra API key"
+            },
+            "authenticationType": "API_KEY"
+          }
+        }
+      },
+      "providerPlugin": "awscloudformation",
+      "service": "AppSync"
+    }
+  }
+}

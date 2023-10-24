@@ -2,4 +2,4 @@
 
 import 'package:flutter/material.dart';
 
-const baseColor = Colors.green;
+const baseColor = Colors.teal;
