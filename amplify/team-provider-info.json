@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-smartbra-dev-102832-authRole",
+      "UnauthRoleArn": "arn:aws:iam::580510132728:role/amplify-smartbra-dev-102832-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::580510132728:role/amplify-smartbra-dev-102832-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-smartbra-dev-102832-deployment",
+      "UnauthRoleName": "amplify-smartbra-dev-102832-unauthRole",
+      "StackName": "amplify-smartbra-dev-102832",
+      "StackId": "arn:aws:cloudformation:eu-north-1:580510132728:stack/amplify-smartbra-dev-102832/b51d8e60-724f-11ee-854d-0ebeb8c2d6da",
+      "AmplifyAppId": "dlng5bkxzype6"
+    }
+  }
+}
